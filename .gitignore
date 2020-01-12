@@ -2,4 +2,4 @@
 # doc/**/*.pdf
 
 # ignore doc/notes.txt, but not doc/server/arch.txt
-config/database.php
+config/
